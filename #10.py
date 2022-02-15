@@ -21,7 +21,7 @@ while flag1 == 1:
     else:
         print('ERROR: number of rows is below or equal 0.')
 
-    # check continue program
+    # check continue
     while flag2 == 1:
         check_continue = input('Do you want to continue? (Y/N): ')
         if (check_continue == 'Y' or check_continue == 'y'):
