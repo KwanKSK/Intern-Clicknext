@@ -31,6 +31,5 @@ int main(){
 	    printf("HH:MM:SS is %02d:%02d:%02d\n",hour, minute, second);
 	}
 
-     
     return 0;   
 }
