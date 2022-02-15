@@ -13,20 +13,17 @@ main() {
 	while(row <= 0 || row > 4){
 		printf("\nEnter the number of rows (1-4): ");
 		scanf("%d", &row);	
-		if(row <= 0 || row > 4){
+		if(row <= 0 || row > 4)
 			printf("ERROR: Number of rows must between 1-4\n");
-		}
 	}
 
 	// print pyramid	
 	for (i = 1; i <= row ; i++) {
-        for ( j = 1; j <= row - i; j++){  
+        for ( j = 1; j <= row - i; j++)
             printf (" ");   
-        }  
 		for (j = 1; j <= i; j++) {
-			if (number >= 10) {
+			if (number >= 10)
 				number -= 10;
-			}
 			printf("%d ", number);
         	number++;
 		}
@@ -34,4 +31,3 @@ main() {
    }
    return 0;
 }
-
