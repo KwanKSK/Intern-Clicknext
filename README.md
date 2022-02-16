@@ -1,7 +1,8 @@
+# Intern-Clicknext
+This assignment for apply Internship at ClickNext Co.,Ltd.
+
 # Assingment 
 Internship Application (Backend Developer)
-
-4-month period internship program during June to October as a backend developer at ClickNext Co.,Ltd.
 
 # Author
 Kwanhathai Sinlikhitkul
