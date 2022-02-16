@@ -4,7 +4,7 @@ void RevertString(char string[], int start, int last);
 
 int main() {
 	char str[100];
-    int start = 0;
+   	int start = 0;
 	int end = 0;
 	
 	printf("Enter a string to be revert: ");
