@@ -1,8 +1,12 @@
 # Intern-Clicknext
-This assignment for apply Internship at ClickNext Co.,Ltd.
+This assignment for apply Internship at ClickNext Co.,Ltd. using C and Python language
 
-# Assingment 
-Internship Application (Backend Developer)
+# Assignment 
++--------+--------------------+
+| assign   | Program name     |
++--------+-------------------+
+|   #1      |   xxxx.c        |
++-------+--------------------+
 
 # Author
 Kwanhathai Sinlikhitkul
