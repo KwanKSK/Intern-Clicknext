@@ -23,6 +23,7 @@ int main() {
 // user defined function
 void RevertString(char str[], int start, int end) {
     char tmp;
+	
     while(start<end) {
         tmp = str[start];
         str[start] = str[end];
